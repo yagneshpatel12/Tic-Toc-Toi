@@ -36,7 +36,7 @@ button{
     background-color: #F012BE;
     border-color: #7FDBFF;
     color: #111111;
-    font-family: 'Nerko One', cursive;
+    font-family: 'Ubuntu', sans-serif;
 }
 #resetbtn{
     position: relative;
